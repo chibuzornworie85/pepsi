@@ -15,7 +15,7 @@ function App() {
     <>
       <div className=" bg-[#070A4E]">
         <div className=" flex justify-center pt-[60px]">
-          <div className="header h-[100vh] w-[75%]">
+          <div className="header w-[75%]">
             <div className=" flex justify-center gap-[60px] items-center">
               <div>
                 <img src={logo} alt="An image logo" className=" pt-[20px]" />
@@ -114,7 +114,7 @@ function App() {
                   <img
                     src={shadow}
                     alt=""
-                    className=" relative top-[150px] h-200px]"
+                    className=" relative top-[135px] right-[80px] h-200px]"
                   />
                   <img
                     src={pepesi1}
@@ -124,7 +124,7 @@ function App() {
                   <img
                     src={pepesi}
                     alt="first image"
-                    className=" relative right-[350px] h-[300px]"
+                    className=" relative right-[330px] h-[300px]"
                   />
                 </div>
               </div>
